@@ -28,7 +28,6 @@ queue。LeetCode23. Merge k Sorted Lists
 4. 处理duplication的⽅式可以采⽤three-way quick sort。LeetCode75. Sort Colors。
 ---
 ### Linear Sort
-1. Count sort会记录每个element的数量，然后进⾏排序。可以做LeetCode75. Sort Colors的follow-up。
-2
+1. Count sort会记录每个element的数量，然后进⾏排序。可以做[LeetCode75. Sort Colors](https://github.com/qw924/python_basic/blob/master/leetcode/sort/75.%20Sort%20Colors.md)的follow-up。
 2. Bucket Sort假设数据符合uniformly distributed over [0-1]。 分割成⼏段，然后根据这⼏段进⾏排序。
 3. Radix Sort是按照数字digit排序的⽅法。反直觉地从最后⼀个位数看起。
